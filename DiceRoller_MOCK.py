@@ -4,3 +4,6 @@ function_test_start = f"{underscore} Start of function test {underscore}"
 print(function_test_start)
 
 print(1+2)
+
+
+print("Testar funktion i sync")
